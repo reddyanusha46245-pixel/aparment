@@ -1,0 +1,14 @@
+{
+  "name": " anusha apartment-maintenance-request-management",
+  "version": "1.0.0",
+  "description": "Anusha Apartment Maintenance Request Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "mysql2": "^3.24.6"
+  }
+}
